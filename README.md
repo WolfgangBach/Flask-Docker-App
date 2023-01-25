@@ -1,4 +1,3 @@
-please remove me from this repo!
 # Flask-Docker-App
 
 ## Set up & Installation.
